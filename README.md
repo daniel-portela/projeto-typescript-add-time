@@ -1,6 +1,6 @@
 # Organo
 
-O Organo é aplicação de pessoas e times desenvolvida com React + Typescript. O projeto contém um layout responsivo com um card para escolha do nome, cargo, imagem e time. Com o preenchimento correto, logo após em 'criar card' uma pessoa será adicionada logo abaixo para conter o time de desenvolvimento.
+O <a href="https://projeto-typescript-add-time.vercel.app/">Organo</a> é aplicação de pessoas e times desenvolvida com React + Typescript. O projeto contém um layout responsivo com um card para escolha do nome, cargo, imagem e time. Com o preenchimento correto, logo após em 'criar card' uma pessoa será adicionada logo abaixo para conter o time de desenvolvimento.
 
 <img src="screencapture.png" alt="Imagem do Organo" width="100%">
 
